@@ -19,3 +19,4 @@ Small & Simple Cloudflare tool for:
  * More features on it's way
 
 Unofficial app, not endorsed by Cloudflare.
+
